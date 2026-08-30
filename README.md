@@ -11,7 +11,7 @@
   <p>
     <a href="https://linkedin.com/in/ilayda-sonmez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="https://img.shields.io/badge/Portfolio-F5BB00?style=for-the-badge&logo=readme&logoColor=000000" /></a>
+    <a href="https://ilaydasnmez.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-F5BB00?style=for-the-badge&logo=readme&logoColor=000000" /></a>
   </p>
 
 </div> 
